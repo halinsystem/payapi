@@ -115,22 +115,6 @@ composer update
 ```
 ----
 
-# 联系&打赏 #
-
-感谢朋友们的支持：[支持名单](SUPPORT.md)
-
-<p align="center">
-    <img src="http://ol59nqr1i.bkt.clouddn.com/mp-qr.jpg">
-    <p align="center">个人公众号：icanfo</p>
-    <p align="center">联系邮箱：dayugog@gmail.com</p>
-</p>
-
-----
-
-<p align="center">
-    <img src="http://ol59nqr1i.bkt.clouddn.com/pay-qr.jpg?imageView2/2/w/500/h/400">
-    <p align="center">打赏扫这里，请留下尊姓大名</p>
-</p>
 
 # Contribution #
 [Contribution Guide](CONTRIBUTING.md)
